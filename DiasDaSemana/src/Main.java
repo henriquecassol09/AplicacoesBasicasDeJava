@@ -31,10 +31,11 @@ public class Main {
                 System.out.println("opção invalida");
                 break;
         }
-        if(dia == 1 || dia == 7){
-            System.out.println("não é dia util");
-        } else
+        if(dia > 1 && dia < 7 ){
             System.out.println("é dia util");
+        } else if (dia == 1 || dia == 7 )
+            System.out.println("não é dia util");
+
 
         scanner.close();
     }

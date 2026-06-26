@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AplicacoesBasicasDeJava.iml" filepath="$PROJECT_DIR$/.idea/AplicacoesBasicasDeJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BancoJava/BancoJava.iml" filepath="$PROJECT_DIR$/BancoJava/BancoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BonificacaoIdadeDoFilho/BonificacaoIdadeDoFilho.iml" filepath="$PROJECT_DIR$/BonificacaoIdadeDoFilho/BonificacaoIdadeDoFilho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CestaDeFrutas/CestaDeFrutas.iml" filepath="$PROJECT_DIR$/CestaDeFrutas/CestaDeFrutas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contador/Contador.iml" filepath="$PROJECT_DIR$/Contador/Contador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiasDaSemana/DiasDaSemana.iml" filepath="$PROJECT_DIR$/DiasDaSemana/DiasDaSemana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estudantes/Estudantes.iml" filepath="$PROJECT_DIR$/Estudantes/Estudantes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funcionarios/Funcionarios.iml" filepath="$PROJECT_DIR$/Funcionarios/Funcionarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenrenciadorDeTarefas/GenrenciadorDeTarefas.iml" filepath="$PROJECT_DIR$/GenrenciadorDeTarefas/GenrenciadorDeTarefas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HerancaJava/HerancaJava.iml" filepath="$PROJECT_DIR$/HerancaJava/HerancaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InvertedorDePalavras/InvertedorDePalavras.iml" filepath="$PROJECT_DIR$/InvertedorDePalavras/InvertedorDePalavras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Os4Pilares/Os4Pilares.iml" filepath="$PROJECT_DIR$/Os4Pilares/Os4Pilares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlacarJava/PlacarJava.iml" filepath="$PROJECT_DIR$/PlacarJava/PlacarJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bloqueioSenha/bloqueioSenha.iml" filepath="$PROJECT_DIR$/bloqueioSenha/bloqueioSenha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bombaDeCombustivel/bombaDeCombustivel.iml" filepath="$PROJECT_DIR$/bombaDeCombustivel/bombaDeCombustivel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/condicao/condicao.iml" filepath="$PROJECT_DIR$/condicao/condicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumoDoCarro/consumoDoCarro.iml" filepath="$PROJECT_DIR$/consumoDoCarro/consumoDoCarro.iml" />
+    </modules>
+  </component>
+</project>
